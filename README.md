@@ -1,5 +1,5 @@
 # FutureSnowmelt
-This repository includes two folders. "Maps" folder is the 25-year return level extreme maps of 4-km gridded snow water equivalent (SWE) and 7-day snowmelt and runoff potential (RP) and over North America. The other one, "R_code", is R code scripts used in the analysis presented in this paper. 
+This repository includes two folders. "Maps" folder is the 25-year return level extreme maps of snow water equivalent (SWE) and 7-day snowmelt and runoff potential (RP) and over North America. The other one, "R_code", is R code scripts used in the analysis presented in this paper. 
 
 The maps are developed by using 25-km gridded historical and future simulation data sets from the North American Coordinated Regional Climate Downscaling Experiment (NA-CORDEX) under the Representative Concentration Pathway 8.5. For full details, please see Cho et al. (2021) in Geophysical Research Letters.  
 
